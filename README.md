@@ -11,24 +11,24 @@ The idea of the camera course is to build a collision detection system - that's 
 
 See the classroom instruction and code comments for more details on each of these parts. Once you are finished with this project, the keypoint matching part will be set up and you can proceed to the next lesson, where the focus is on integrating Lidar points and on object detection using deep-learning. 
 
-## Dependencies for Running Locally
-* cmake >= 2.8
+## Dependencies for Running Locally Windwos
+* cmake >= 3.14.6
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
-* make >= 4.1 (Linux, Mac), 3.81 (Windows)
-  * Linux: make is installed by default on most Linux distros
-  * Mac: [install Xcode command line tools to get make](https://developer.apple.com/xcode/features/)
-  * Windows: [Click here for installation instructions](http://gnuwin32.sourceforge.net/packages/make.htm)
-* OpenCV >= 4.1
-  * This must be compiled from source using the `-D OPENCV_ENABLE_NONFREE=ON` cmake flag for testing the SIFT and SURF detectors.
-  * The OpenCV 4.1.0 source code can be found [here](https://github.com/opencv/opencv/tree/4.1.0)
-* gcc/g++ >= 5.4
-  * Linux: gcc / g++ is installed by default on most Linux distros
-  * Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/)
-  * Windows: recommend using [MinGW](http://www.mingw.org/)
+* OpenCV >= 4.1.1
+  * cmake -G "Visual Studio 16 2019" -a  Win64 -DCMAKE_WINDOWS_EXPORT_ALL_SYMBOLS=ON -DCMAKE_INSTALL_PREFIX=C:\pcl-ownBuild\install -DOPENCV_EXTRA_MODULES_PATH=C:/pcl-ownBuild/dep/opencv_contrib/modules  -DOPENCV_ENABLE_NONFREE=ON ..
+  cmake --build . --clean-first --config Release --target INSTALL	
 
 ## Basic Build Instructions
 
 1. Clone this repo.
 2. Make a build directory in the top level directory: `mkdir build && cd build`
-3. Compile: `cmake .. && make`
-4. Run it: `./2D_feature_tracking`.
+3. Configure cmake -G "Visual Studio 16 2019" -a  Win64 -DCMAKE_WINDOWS_EXPORT_ALL_SYMBOLS=ON  -DOpenCV_DIR=C:\pcl-ownBuild\install\x64\vc16\lib  -DCMAKE_CXX_FLAGS=-I\ %include% ..
+4 Compile cmake --build . --clean-first --config Release --target ALL_BUILD
+5. Run it: `Release\2D_feature_tracking`.
+
+MP.1 Data Buffer Optimization : Use Deque with push_back and pop_front
+MP.2 Implmented the stuff as Shown an Previews sections
+MP.3 Use a costem val cheak to remove keypoints outside the Region of Interest
+MP.4 Implemented as shown in the lecture
+MP.5 Implemented as shown in the lecture with the converer to float 
+MP.6 Implemented as shown in the lecture
