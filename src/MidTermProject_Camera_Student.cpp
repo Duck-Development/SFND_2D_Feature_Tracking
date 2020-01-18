@@ -42,6 +42,33 @@ int main(int argc, const char *argv[])
     bool bVis = false;            // visualize results
 
     /* MAIN LOOP OVER ALL IMAGES */
+  
+
+
+    vector<string> det = { "HARRIS" , "SHITOMASI" , "ORB" , "SIFT" , "FAST", "BRISK" , "AKAZE"  };
+    vector<string> desc = { "BRISK" ,  "BRIEF" ,  "ORB" , "FREAK",  "AKAZE" ,"SIFT"  };
+    
+
+    for (auto detectorType : det){ 
+    for (auto descriptorType : desc){
+    //string detectorType = "AKAZE";
+    uint32_t sumMatche = 0;     
+    double sumTime  = (double)cv::getTickCount();
+    dataBuffer.clear();
+    imgStartIndex = 0;
+    //string descriptorType = "SIFT"; //HARRIS SHITOMASI BRIEF,ORB, FREAK, AKAZE, SIFT
+    if (
+    (descriptorType.compare("AKAZE") == 0 && detectorType.compare("AKAZE") != 0) 
+    //||(detectorType.compare("HARRIS") == 0 && descriptorType.compare("SIFT") == 0)  
+    //|| (detectorType.compare("ORB") == 0 && descriptorType.compare("SIFT") == 0)  
+    //|| (detectorType.compare("SHITOMASI") == 0 && descriptorType.compare("SIFT") == 0)
+     || (detectorType.compare("SIFT") == 0 && descriptorType.compare("ORB") == 0)
+    //|| (detectorType.compare("SIFT") == 0 && descriptorType.compare("FREAK") == 0)  
+    ) 
+      continue;
+ 
+cout << "*******************************" << endl;
+    std::cout << "Start DecType : " << detectorType << " descType: " << descriptorType <<endl;
 
     for (size_t imgIndex = 0; imgIndex <= imgEndIndex - imgStartIndex; imgIndex++)
     {
@@ -77,7 +104,6 @@ int main(int argc, const char *argv[])
 
         // extract 2D keypoints from current image
         vector<cv::KeyPoint> keypoints; // create empty feature list for current image
-        string detectorType = "SIFT";
 
         //// STUDENT ASSIGNMENT
         //// TASK MP.2 -> add the following keypoint detectors in file matching2D.cpp and enable string-based selection based on detectorType
@@ -153,7 +179,6 @@ int main(int argc, const char *argv[])
         //// -> BRIEF, ORB, FREAK, AKAZE, SIFT
 
         cv::Mat descriptors;
-        string descriptorType = "SIFT"; // BRIEF, ORB, FREAK, AKAZE, SIFT
         descKeypoints((dataBuffer.end() - 1)->keypoints, (dataBuffer.end() - 1)->cameraImg, descriptors, descriptorType);
         //// EOF STUDENT ASSIGNMENT
 
@@ -168,8 +193,11 @@ int main(int argc, const char *argv[])
             /* MATCH KEYPOINT DESCRIPTORS */
 
             vector<cv::DMatch> matches;
-            string matcherType = "MAT_FLANN";        // MAT_BF, MAT_FLANN
-            string descriptorType = "DES_HOG"; // DES_BINARY, DES_HOG
+            string matcherType = "MAT_BF";        // MAT_BF, MAT_FLANN
+            string _descriptorType ="DES_BINARY";
+	    if (descriptorType.compare("SIFT") == 0){
+	      _descriptorType =  "DES_HOG";	
+	    } 
             string selectorType = "SEL_KNN";       // SEL_NN, SEL_KNN
 
             //// STUDENT ASSIGNMENT
@@ -178,17 +206,24 @@ int main(int argc, const char *argv[])
 
             matchDescriptors((dataBuffer.end() - 2)->keypoints, (dataBuffer.end() - 1)->keypoints,
                              (dataBuffer.end() - 2)->descriptors, (dataBuffer.end() - 1)->descriptors,
-                             matches, descriptorType, matcherType, selectorType);
+                             matches, _descriptorType, matcherType, selectorType);
 
-            //// EOF STUDENT ASSIGNMENT
+            
+
+	    //// EOF STUDENT ASSIGNMENT
 
             // store matches in current data frame
             (dataBuffer.end() - 1)->kptMatches = matches;
 
+
+		sumMatche +=matches.size();
+
+            cout << "matched keypoint " << to_string(matches.size())  << endl;
+
             cout << "#4 : MATCH KEYPOINT DESCRIPTORS done" << endl;
 
             // visualize matches between current and previous image
-            bVis = true;
+            bVis = false;
             if (bVis)
             {
                 cv::Mat matchImg = ((dataBuffer.end() - 1)->cameraImg).clone();
@@ -208,6 +243,14 @@ int main(int argc, const char *argv[])
         }
 
     } // eof loop over all images
-
+    // extractor->compute(img, keypoints, descriptors);
+    sumTime = ((double)cv::getTickCount() - sumTime) / cv::getTickFrequency();
+    cout << "---------------------------------------" << endl;
+    std::cout << "DecType : " << detectorType << " descType: " << descriptorType <<endl;
+    cout  <<  "time  " << sumTime / 1.0 << " s" << endl;
+    cout << "sumMatches = " << sumMatche << endl;
+    cv::waitKey(0); // wait for key to be pressed 
+    } // eof desc
+    } // eof det
     return 0;
 }

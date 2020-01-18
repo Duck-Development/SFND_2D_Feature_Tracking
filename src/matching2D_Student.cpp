@@ -5,7 +5,6 @@ using namespace std;
 
 
 
-            string descriptorType = "DES_BINARY"; // DES_BINARY, DES_HOG
 
 
 
@@ -178,10 +177,10 @@ void detKeypointsModern(std::vector<cv::KeyPoint> &keypoints, cv::Mat &img, std:
         cv::FastFeatureDetector::DetectorType type = cv::FastFeatureDetector::TYPE_9_16; // TYPE_9_16, TYPE_7_12, TYPE_5_8
         detector = cv::FastFeatureDetector::create(threshold, bNMS, type);
 
-        auto t = (double)cv::getTickCount();
-        detector->detect(img, keypoints);
-        t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
-        cout << "FAST with n= " << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
+        //auto t = (double)cv::getTickCount();
+        //detector->detect(img, keypoints);
+        //t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+        //cout << "FAST with n=" << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
     }
     else if (detectorType.compare("BRISK")== 0)
     {
@@ -196,9 +195,9 @@ void detKeypointsModern(std::vector<cv::KeyPoint> &keypoints, cv::Mat &img, std:
         detector = cv::ORB::create();
         
     }
-    else if (detectorType.compare("AZAKE")== 0)
+    else if (detectorType.compare("AKAZE")== 0)
     {
-        cv::Ptr<cv::FeatureDetector> detector = cv::AKAZE::create();
+        detector = cv::AKAZE::create();
     
     }  
     else if (detectorType.compare("SIFT")== 0)
@@ -214,7 +213,7 @@ void detKeypointsModern(std::vector<cv::KeyPoint> &keypoints, cv::Mat &img, std:
         auto t = (double)cv::getTickCount();
         detector->detect(img, keypoints);
         t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
-        cout << detectorType << " with n= " << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
+        cout << detectorType << "detection with n=" << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
 
 }
 
@@ -278,7 +277,7 @@ void detKeypointsHarris(vector<cv::KeyPoint> &keypoints, cv::Mat &img, bool bVis
         } // eof loop over cols
     }     // eof loop over rows
     t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
-    cout << "Harris Corner Detection with n=" << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
+    cout << "Harris detection with n=" << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
 
     // visualize results
     if (bVis)
