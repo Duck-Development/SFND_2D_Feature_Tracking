@@ -1,0 +1,2905 @@
+*******************************
+Start DecType : HARRIS descType: BRISK
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=115 keypoints in 19.1802 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 0.586982 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=98 keypoints in 16.6435 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.37411 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 5
+matched keypoint 12
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=113 keypoints in 16.367 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.19264 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 4
+matched keypoint 10
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=121 keypoints in 15.7481 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.37116 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 4
+matched keypoint 14
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=160 keypoints in 16.1456 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.33096 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 6
+matched keypoint 15
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=383 keypoints in 30.8527 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 0.835524 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 10
+matched keypoint 16
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=85 keypoints in 16.3707 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.20184 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 27
+matched keypoint 16
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=210 keypoints in 18.267 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.44085 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 3
+matched keypoint 15
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=171 keypoints in 16.7606 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.35865 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 8
+matched keypoint 23
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=281 keypoints in 22.2212 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.40321 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 5
+matched keypoint 21
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : HARRIS descType: BRISK
+time  3.61989 s
+sumMatches = 142
+*******************************
+Start DecType : HARRIS descType: BRIEF
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=115 keypoints in 15.6717 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.847228 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=98 keypoints in 15.6173 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.720727 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 3
+matched keypoint 14
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=113 keypoints in 14.6937 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.802519 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 3
+matched keypoint 11
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=121 keypoints in 15.2975 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.858183 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 3
+matched keypoint 15
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=160 keypoints in 16.3932 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.845996 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 1
+matched keypoint 20
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=383 keypoints in 30.7838 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.980295 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 2
+matched keypoint 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=85 keypoints in 13.3986 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.233398 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 17
+matched keypoint 26
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=210 keypoints in 17.3118 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.934825 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 2
+matched keypoint 16
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=171 keypoints in 14.7925 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.870679 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 7
+matched keypoint 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=281 keypoints in 21.0594 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.99608 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 3
+matched keypoint 23
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : HARRIS descType: BRIEF
+time  0.268278 s
+sumMatches = 173
+*******************************
+Start DecType : HARRIS descType: ORB
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=115 keypoints in 15.3578 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.15252 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=98 keypoints in 16.2607 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.18573 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 5
+matched keypoint 12
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=113 keypoints in 16.2376 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.790405 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 2
+matched keypoint 12
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=121 keypoints in 16.191 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.771691 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 3
+matched keypoint 15
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=160 keypoints in 16.4393 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.03871 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 3
+matched keypoint 18
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=383 keypoints in 30.6821 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.975676 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 2
+matched keypoint 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=85 keypoints in 16.066 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.997512 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 23
+matched keypoint 20
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=210 keypoints in 18.7622 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.07351 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 3
+matched keypoint 15
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=171 keypoints in 17.269 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.879815 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 7
+matched keypoint 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=281 keypoints in 22.1774 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.943654 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 4
+matched keypoint 22
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : HARRIS descType: ORB
+time  0.283176 s
+sumMatches = 162
+*******************************
+Start DecType : HARRIS descType: FREAK
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=115 keypoints in 15.8649 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.9434 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=98 keypoints in 15.5075 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.609 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 4
+matched keypoint 13
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=113 keypoints in 12.4761 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.1063 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 1
+matched keypoint 13
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=121 keypoints in 12.3316 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.0671 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 3
+matched keypoint 15
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=160 keypoints in 12.5997 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.6283 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 6
+matched keypoint 15
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=383 keypoints in 26.8862 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.4355 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 9
+matched keypoint 17
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=85 keypoints in 11.9236 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.0115 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 23
+matched keypoint 20
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=210 keypoints in 13.5015 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.4772 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 6
+matched keypoint 12
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=171 keypoints in 12.645 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.363 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 10
+matched keypoint 21
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=281 keypoints in 17.5186 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.6466 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 8
+matched keypoint 18
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : HARRIS descType: FREAK
+time  0.624062 s
+sumMatches = 144
+*******************************
+Start DecType : HARRIS descType: SIFT
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=115 keypoints in 11.5314 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 15.7566 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=98 keypoints in 16.2909 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 13.7665 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 3
+matched keypoint 14
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=113 keypoints in 11.3958 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.3122 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 3
+matched keypoint 11
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=121 keypoints in 11.6618 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.4121 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 2
+matched keypoint 16
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=160 keypoints in 12.3769 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 13.0839 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 2
+matched keypoint 19
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=383 keypoints in 26.7721 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.468 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 4
+matched keypoint 22
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=85 keypoints in 11.3292 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 13.7394 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 21
+matched keypoint 22
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=210 keypoints in 17.3496 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.2575 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 5
+matched keypoint 13
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=171 keypoints in 12.2769 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 13.8196 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 7
+matched keypoint 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=281 keypoints in 17.9706 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.0711 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 4
+matched keypoint 22
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : HARRIS descType: SIFT
+time  0.37357 s
+sumMatches = 163
+*******************************
+Start DecType : SHITOMASI descType: BRISK
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 14.9411 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.54723 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 13.1327 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.60829 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 30
+matched keypoint 97
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 11.1495 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.4923 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 32
+matched keypoint 88
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 11.8806 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.50875 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 43
+matched keypoint 80
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 10.9194 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.49585 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 30
+matched keypoint 90
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 12.1815 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.49688 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 38
+matched keypoint 82
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 11.5231 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.50202 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 36
+matched keypoint 79
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 11.7578 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.62979 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 28
+matched keypoint 86
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 11.2504 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.42684 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 39
+matched keypoint 86
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 11.9185 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.59162 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 29
+matched keypoint 83
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : SHITOMASI descType: BRISK
+time  3.81768 s
+sumMatches = 771
+*******************************
+Start DecType : SHITOMASI descType: BRIEF
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 12.3183 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.641329 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 12.2991 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.578545 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 9
+matched keypoint 118
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 11.253 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.80668 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 9
+matched keypoint 111
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 11.7757 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.623727 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 19
+matched keypoint 104
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 11.5833 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.690661 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 19
+matched keypoint 101
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 11.3363 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.573627 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 16
+matched keypoint 104
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 11.6229 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.76926 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 13
+matched keypoint 102
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 11.1709 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.650404 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 13
+matched keypoint 101
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 11.2314 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.574453 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 15
+matched keypoint 110
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 11.7348 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.652672 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 10
+matched keypoint 102
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : SHITOMASI descType: BRIEF
+time  0.460287 s
+sumMatches = 953
+*******************************
+Start DecType : SHITOMASI descType: ORB
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 11.2609 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.00849 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 12.4078 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.19102 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 19
+matched keypoint 108
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 10.8799 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.00956 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 18
+matched keypoint 102
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 11.879 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.05893 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 24
+matched keypoint 99
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 11.6353 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.946632 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 18
+matched keypoint 102
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 10.7908 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.804046 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 15
+matched keypoint 105
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 11.4427 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.943068 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 17
+matched keypoint 98
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 11.3541 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.04808 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 15
+matched keypoint 99
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 12.3344 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.995391 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 20
+matched keypoint 105
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 11.4593 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.0027 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 13
+matched keypoint 99
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : SHITOMASI descType: ORB
+time  0.461696 s
+sumMatches = 917
+*******************************
+Start DecType : SHITOMASI descType: FREAK
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 11.8139 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.6261 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 11.5085 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.0408 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 40
+matched keypoint 87
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 11.6531 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.6289 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 30
+matched keypoint 90
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 11.651 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.3504 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 37
+matched keypoint 86
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 11.7068 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.0399 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 32
+matched keypoint 88
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 10.7151 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.1411 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 33
+matched keypoint 87
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 11.6571 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.0957 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 35
+matched keypoint 80
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 11.6381 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.2844 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 33
+matched keypoint 81
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 11.2768 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.6388 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 39
+matched keypoint 86
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 10.895 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.4938 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 26
+matched keypoint 86
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : SHITOMASI descType: FREAK
+time  0.843298 s
+sumMatches = 771
+*******************************
+Start DecType : SHITOMASI descType: SIFT
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 11.5558 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 15.908 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 11.1229 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 16.3835 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 12
+matched keypoint 115
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 11.9109 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 15.9071 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 11
+matched keypoint 109
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 15.0842 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 15.6833 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 19
+matched keypoint 104
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 11.7605 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.7298 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 17
+matched keypoint 103
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 11.1674 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.572 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 19
+matched keypoint 101
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 11.1656 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 15.2541 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 14
+matched keypoint 101
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 11.1166 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 16.3674 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 17
+matched keypoint 97
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 11.8354 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.9032 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 18
+matched keypoint 107
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 15.1179 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.3735 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 13
+matched keypoint 99
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : SHITOMASI descType: SIFT
+time  0.61593 s
+sumMatches = 936
+*******************************
+Start DecType : ORB descType: BRISK
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 8.30824 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.19484 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.89103 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.38706 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 9
+matched keypoint 73
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.49589 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.33648 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 19
+matched keypoint 74
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.638 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.72863 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 16
+matched keypoint 79
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.56381 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.44989 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 18
+matched keypoint 85
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.67206 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.62661 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 22
+matched keypoint 79
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.68453 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.5253 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 25
+matched keypoint 90
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.36365 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.51455 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 31
+matched keypoint 88
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.54997 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.43641 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 32
+matched keypoint 86
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.83808 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.51341 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 26
+matched keypoint 90
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : ORB descType: BRISK
+time  3.5323 s
+sumMatches = 744
+*******************************
+Start DecType : ORB descType: BRIEF
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.55443 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.537368 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.63909 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.512668 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 42
+matched keypoint 49
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.28492 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.584679 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 59
+matched keypoint 43
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.03505 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.691862 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 61
+matched keypoint 45
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.17851 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.514232 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 54
+matched keypoint 59
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.26533 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.660687 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 56
+matched keypoint 53
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.5582 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.700468 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 48
+matched keypoint 76
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.50646 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.587551 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 62
+matched keypoint 67
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.7702 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.725377 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 44
+matched keypoint 83
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.44033 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.625144 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 59
+matched keypoint 65
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : ORB descType: BRIEF
+time  0.185705 s
+sumMatches = 540
+*******************************
+Start DecType : ORB descType: ORB
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.42768 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.39402 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.29363 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.59139 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 24
+matched keypoint 67
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.43447 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 5.04876 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 32
+matched keypoint 70
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.4599 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.91365 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 34
+matched keypoint 72
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.40519 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.72163 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 29
+matched keypoint 84
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.36929 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.52512 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 18
+matched keypoint 91
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.48891 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.57509 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 25
+matched keypoint 99
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.23398 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.33554 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 38
+matched keypoint 91
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.20357 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.49468 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 36
+matched keypoint 91
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 6.98001 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.28487 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 34
+matched keypoint 90
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : ORB descType: ORB
+time  0.227592 s
+sumMatches = 755
+*******************************
+Start DecType : ORB descType: FREAK
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.08876 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.53 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.36959 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.6818 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 4
+matched keypoint 41
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.66002 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.6755 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 17
+matched keypoint 36
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.80209 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.5663 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 12
+matched keypoint 44
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.32848 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 37.9886 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 18
+matched keypoint 47
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.45322 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 37.1529 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 11
+matched keypoint 44
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.3758 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.3078 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 13
+matched keypoint 51
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.55325 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.0149 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 14
+matched keypoint 52
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.53999 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.7639 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 23
+matched keypoint 47
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.88627 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.6109 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 17
+matched keypoint 54
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : ORB descType: FREAK
+time  0.567334 s
+sumMatches = 416
+*******************************
+Start DecType : ORB descType: SIFT
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.29231 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 40.7353 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.54531 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 40.6785 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 25
+matched keypoint 66
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.42913 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 44.9084 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 23
+matched keypoint 79
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.47113 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 44.6755 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 28
+matched keypoint 78
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.45793 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 42.9535 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 34
+matched keypoint 79
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.56463 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 45.3784 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 27
+matched keypoint 82
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.23721 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 46.0614 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 31
+matched keypoint 93
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.15643 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 46.7437 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 35
+matched keypoint 94
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.58411 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 50.8921 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 34
+matched keypoint 93
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORBdetection with n=500 keypoints in 7.38408 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 48.112 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 32
+matched keypoint 92
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : ORB descType: SIFT
+time  0.634595 s
+sumMatches = 756
+*******************************
+Start DecType : SIFT descType: BRISK
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1438 keypoints in 123.651 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.2075 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1371 keypoints in 123.241 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.56245 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 73
+matched keypoint 63
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1380 keypoints in 124.431 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.7584 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 67
+matched keypoint 64
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1335 keypoints in 125.275 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.69939 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 61
+matched keypoint 60
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1305 keypoints in 119.491 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.72191 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 70
+matched keypoint 65
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1370 keypoints in 121.103 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.7211 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 75
+matched keypoint 59
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1396 keypoints in 125.152 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.71438 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 74
+matched keypoint 65
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1382 keypoints in 119.028 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.77864 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 72
+matched keypoint 64
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1463 keypoints in 124.096 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.97638 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 80
+matched keypoint 67
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1422 keypoints in 124.43 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.66965 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 77
+matched keypoint 79
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : SIFT descType: BRISK
+time  4.79481 s
+sumMatches = 586
+*******************************
+Start DecType : SIFT descType: BRIEF
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1438 keypoints in 120.022 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.868143 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1371 keypoints in 128.41 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.758175 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 51
+matched keypoint 86
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1380 keypoints in 121.292 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.698753 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 55
+matched keypoint 76
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1335 keypoints in 121.57 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.747851 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 49
+matched keypoint 72
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1305 keypoints in 120.216 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.753406 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 52
+matched keypoint 83
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1370 keypoints in 122.196 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.803527 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 65
+matched keypoint 69
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1396 keypoints in 124.662 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.771656 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 64
+matched keypoint 75
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1382 keypoints in 119.981 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.798992 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 60
+matched keypoint 76
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1463 keypoints in 122.669 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.749046 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 78
+matched keypoint 69
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1422 keypoints in 118.536 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.739902 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 69
+matched keypoint 87
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : SIFT descType: BRIEF
+time  1.60898 s
+sumMatches = 693
+*******************************
+Start DecType : SIFT descType: FREAK
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1438 keypoints in 120.931 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.8676 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1371 keypoints in 123.058 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.7454 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 72
+matched keypoint 64
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1380 keypoints in 121.255 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.6919 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 60
+matched keypoint 70
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1335 keypoints in 118.414 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.7473 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 58
+matched keypoint 62
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1305 keypoints in 122.121 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.4449 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 69
+matched keypoint 65
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1370 keypoints in 124.542 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 38.7979 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 74
+matched keypoint 59
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1396 keypoints in 122.73 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.9776 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 78
+matched keypoint 60
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1382 keypoints in 124.935 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.5066 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 70
+matched keypoint 64
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1463 keypoints in 118.845 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.6761 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 81
+matched keypoint 65
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1422 keypoints in 127.503 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.3311 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 76
+matched keypoint 79
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : SIFT descType: FREAK
+time  2.00123 s
+sumMatches = 588
+*******************************
+Start DecType : SIFT descType: SIFT
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1438 keypoints in 119.401 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 74.9837 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1371 keypoints in 96.1916 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 77.8145 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 56
+matched keypoint 81
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1380 keypoints in 127.743 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 101.462 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 52
+matched keypoint 79
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1335 keypoints in 119.939 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 80.2675 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 38
+matched keypoint 83
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1305 keypoints in 93.7442 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 74.8668 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 43
+matched keypoint 92
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1370 keypoints in 94.0114 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 76.0746 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 44
+matched keypoint 90
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1396 keypoints in 93.3899 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 77.7312 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 57
+matched keypoint 82
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1382 keypoints in 95.0033 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 71.2156 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 54
+matched keypoint 82
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1463 keypoints in 92.0283 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 75.3872 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 47
+matched keypoint 100
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+SIFTdetection with n=1422 keypoints in 96.0241 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 74.4395 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 55
+matched keypoint 101
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : SIFT descType: SIFT
+time  2.17931 s
+sumMatches = 790
+*******************************
+Start DecType : FAST descType: BRISK
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=5063 keypoints in 2.13152 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 4.25771 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4952 keypoints in 2.09226 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 4.92311 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 163
+matched keypoint 257
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4863 keypoints in 2.18493 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 4.35652 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 187
+matched keypoint 244
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4840 keypoints in 2.26762 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 4.3977 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 161
+matched keypoint 247
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4856 keypoints in 2.20554 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.88611 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 187
+matched keypoint 243
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4899 keypoints in 2.22925 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 4.24983 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 173
+matched keypoint 216
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4870 keypoints in 2.2913 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 4.41174 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 164
+matched keypoint 253
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4868 keypoints in 2.3499 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 4.29997 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 171
+matched keypoint 251
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4996 keypoints in 2.27593 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 4.14755 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 166
+matched keypoint 247
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4997 keypoints in 2.21192 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 4.32147 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 150
+matched keypoint 251
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : FAST descType: BRISK
+time  7.1349 s
+sumMatches = 2209
+*******************************
+Start DecType : FAST descType: BRIEF
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=5063 keypoints in 2.38762 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.70789 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4952 keypoints in 2.2139 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.7763 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 99
+matched keypoint 321
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4863 keypoints in 2.13094 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.73385 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 97
+matched keypoint 334
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4840 keypoints in 2.33963 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.7291 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 107
+matched keypoint 301
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4856 keypoints in 2.02747 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.76806 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 94
+matched keypoint 336
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4899 keypoints in 2.24459 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.73957 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 112
+matched keypoint 277
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4870 keypoints in 2.26805 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.67046 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 88
+matched keypoint 329
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4868 keypoints in 2.12246 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.65121 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 96
+matched keypoint 326
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4996 keypoints in 2.25631 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.69619 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 97
+matched keypoint 316
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4997 keypoints in 2.37984 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.66501 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 91
+matched keypoint 310
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : FAST descType: BRIEF
+time  3.76378 s
+sumMatches = 2850
+*******************************
+Start DecType : FAST descType: ORB
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=5063 keypoints in 2.27076 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.59309 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4952 keypoints in 2.08557 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.62375 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 112
+matched keypoint 308
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4863 keypoints in 2.18745 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.63516 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 120
+matched keypoint 311
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4840 keypoints in 2.3188 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.78963 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 107
+matched keypoint 301
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4856 keypoints in 2.26331 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.50169 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 107
+matched keypoint 323
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4899 keypoints in 2.26507 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.55871 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 108
+matched keypoint 281
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4870 keypoints in 2.24048 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.67149 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 101
+matched keypoint 316
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4868 keypoints in 2.20924 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.59036 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 99
+matched keypoint 323
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4996 keypoints in 2.38596 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.59574 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 107
+matched keypoint 306
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4997 keypoints in 2.26225 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.62322 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 86
+matched keypoint 315
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : FAST descType: ORB
+time  3.7966 s
+sumMatches = 2784
+*******************************
+Start DecType : FAST descType: FREAK
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=5063 keypoints in 2.14471 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 45.0366 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4952 keypoints in 2.30533 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 42.4948 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 168
+matched keypoint 252
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4863 keypoints in 2.11197 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.9273 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 181
+matched keypoint 250
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4840 keypoints in 2.33513 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 43.1326 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 168
+matched keypoint 240
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4856 keypoints in 2.29969 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 42.456 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 172
+matched keypoint 258
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4899 keypoints in 2.08893 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 42.0202 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 158
+matched keypoint 231
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4870 keypoints in 2.19129 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 41.9782 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 149
+matched keypoint 268
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4868 keypoints in 2.26831 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.9279 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 174
+matched keypoint 248
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4996 keypoints in 2.37746 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 42.1332 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 157
+matched keypoint 256
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4997 keypoints in 2.33423 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 42.0375 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 150
+matched keypoint 251
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : FAST descType: FREAK
+time  4.18386 s
+sumMatches = 2254
+*******************************
+Start DecType : FAST descType: SIFT
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=5063 keypoints in 2.46107 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 30.8018 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4952 keypoints in 2.09681 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 31.1254 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 105
+matched keypoint 315
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4863 keypoints in 2.30952 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 29.2513 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 105
+matched keypoint 326
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4840 keypoints in 2.17129 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 30.6059 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 107
+matched keypoint 301
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4856 keypoints in 2.06349 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 29.3435 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 114
+matched keypoint 316
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4899 keypoints in 2.16831 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 30.3483 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 95
+matched keypoint 294
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4870 keypoints in 2.2771 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 31.3957 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 89
+matched keypoint 328
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4868 keypoints in 2.26718 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 30.2825 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 103
+matched keypoint 319
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4996 keypoints in 2.15663 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 29.7795 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 109
+matched keypoint 304
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FASTdetection with n=4997 keypoints in 2.3246 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 29.2489 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 99
+matched keypoint 302
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : FAST descType: SIFT
+time  4.06808 s
+sumMatches = 2805
+*******************************
+Start DecType : BRISK descType: BRISK
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2757 keypoints in 41.0331 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.93634 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2777 keypoints in 41.5876 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.07895 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 86
+matched keypoint 168
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2741 keypoints in 40.7665 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.42587 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 105
+matched keypoint 169
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2735 keypoints in 40.479 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.33732 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 119
+matched keypoint 157
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2757 keypoints in 41.7354 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.27885 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 105
+matched keypoint 170
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2695 keypoints in 41.9583 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.22015 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 122
+matched keypoint 171
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2715 keypoints in 40.9316 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.38957 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 89
+matched keypoint 186
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2628 keypoints in 40.4203 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.18213 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 115
+matched keypoint 174
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2639 keypoints in 40.539 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.00075 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 100
+matched keypoint 168
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2672 keypoints in 40.7159 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.32301 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 78
+matched keypoint 182
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : BRISK descType: BRISK
+time  8.27741 s
+sumMatches = 1545
+*******************************
+Start DecType : BRISK descType: BRIEF
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2757 keypoints in 41.7863 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.16629 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2777 keypoints in 41.2415 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.08408 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 80
+matched keypoint 174
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2741 keypoints in 41.2366 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.33512 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 79
+matched keypoint 195
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2735 keypoints in 43.3341 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.23396 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 94
+matched keypoint 182
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2757 keypoints in 41.3168 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.19063 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 98
+matched keypoint 177
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2695 keypoints in 41.0505 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.10516 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 111
+matched keypoint 182
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2715 keypoints in 42.1027 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.28006 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 82
+matched keypoint 193
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2628 keypoints in 39.6269 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.16509 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 81
+matched keypoint 208
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2639 keypoints in 41.002 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.12489 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 82
+matched keypoint 186
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2672 keypoints in 40.5522 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.03265 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 81
+matched keypoint 179
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : BRISK descType: BRIEF
+time  4.95493 s
+sumMatches = 1676
+*******************************
+Start DecType : BRISK descType: ORB
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2757 keypoints in 41.2973 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.44831 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2777 keypoints in 40.8768 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.61374 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 99
+matched keypoint 155
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2741 keypoints in 41.0548 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.47314 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 107
+matched keypoint 167
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2735 keypoints in 41.1475 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.46253 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 121
+matched keypoint 155
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2757 keypoints in 40.5281 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.5512 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 114
+matched keypoint 161
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2695 keypoints in 41.9903 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.15126 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 137
+matched keypoint 156
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2715 keypoints in 40.2513 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.56626 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 94
+matched keypoint 181
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2628 keypoints in 39.2735 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.44694 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 124
+matched keypoint 165
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2639 keypoints in 40.6526 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.16899 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 98
+matched keypoint 170
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2672 keypoints in 40.1958 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.28419 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 90
+matched keypoint 170
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : BRISK descType: ORB
+time  4.95153 s
+sumMatches = 1480
+*******************************
+Start DecType : BRISK descType: FREAK
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2757 keypoints in 41.8207 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.5439 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2777 keypoints in 41.7207 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.2037 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 80
+matched keypoint 154
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2741 keypoints in 41.9726 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.7157 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 79
+matched keypoint 173
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2735 keypoints in 40.6621 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.7837 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 104
+matched keypoint 153
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2757 keypoints in 42.7686 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.4318 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 94
+matched keypoint 168
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2695 keypoints in 41.2244 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.2546 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 112
+matched keypoint 158
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2715 keypoints in 41.2801 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.4507 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 71
+matched keypoint 181
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2628 keypoints in 40.5482 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.8191 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 100
+matched keypoint 169
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2639 keypoints in 41.9551 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.2788 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 76
+matched keypoint 175
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2672 keypoints in 40.7511 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.3328 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 72
+matched keypoint 165
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : BRISK descType: FREAK
+time  5.33954 s
+sumMatches = 1496
+*******************************
+Start DecType : BRISK descType: SIFT
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2757 keypoints in 40.92 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 39.6451 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2777 keypoints in 40.9813 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 38.5559 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 77
+matched keypoint 177
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2741 keypoints in 43.1173 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 38.8775 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 87
+matched keypoint 187
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2735 keypoints in 40.6772 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 40.7576 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 105
+matched keypoint 171
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2757 keypoints in 40.904 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 40.335 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 98
+matched keypoint 177
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2695 keypoints in 41.1971 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 40.6448 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 125
+matched keypoint 168
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2715 keypoints in 40.8423 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 41.8105 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 85
+matched keypoint 190
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2628 keypoints in 40.8424 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 45.2928 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 96
+matched keypoint 193
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2639 keypoints in 41.502 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 40.8296 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 95
+matched keypoint 173
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISKdetection with n=2672 keypoints in 41.6855 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 37.8016 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 79
+matched keypoint 181
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : BRISK descType: SIFT
+time  5.34167 s
+sumMatches = 1617
+*******************************
+Start DecType : AKAZE descType: BRISK
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1351 keypoints in 72.2738 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.94388 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1327 keypoints in 70.4521 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.8373 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 28
+matched keypoint 134
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1311 keypoints in 66.0745 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.8693 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 33
+matched keypoint 124
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1351 keypoints in 63.8646 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.86278 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 30
+matched keypoint 129
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1360 keypoints in 65.4607 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 3.49172 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 26
+matched keypoint 128
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1347 keypoints in 73.2421 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.92798 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 32
+matched keypoint 130
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1363 keypoints in 63.1816 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.14335 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 31
+matched keypoint 132
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1331 keypoints in 66.2348 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.06484 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 31
+matched keypoint 142
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1357 keypoints in 72.9432 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.78564 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 31
+matched keypoint 144
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1331 keypoints in 76.0474 ms
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 2.03032 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 34
+matched keypoint 141
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : AKAZE descType: BRISK
+time  4.36277 s
+sumMatches = 1204
+*******************************
+Start DecType : AKAZE descType: BRIEF
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1351 keypoints in 67.3186 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.891199 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1327 keypoints in 67.4182 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.844191 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 25
+matched keypoint 137
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1311 keypoints in 69.3706 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.874251 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 24
+matched keypoint 133
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1351 keypoints in 67.2149 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.943915 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 29
+matched keypoint 130
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1360 keypoints in 69.2337 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.910199 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 24
+matched keypoint 130
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1347 keypoints in 68.4521 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.904757 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 28
+matched keypoint 134
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1363 keypoints in 65.6111 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.791038 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 17
+matched keypoint 146
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1331 keypoints in 67.8953 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.924845 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 23
+matched keypoint 150
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1357 keypoints in 62.6328 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.891545 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 28
+matched keypoint 147
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1331 keypoints in 65.7776 ms
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.11513 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 25
+matched keypoint 150
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : AKAZE descType: BRIEF
+time  1.01157 s
+sumMatches = 1257
+*******************************
+Start DecType : AKAZE descType: ORB
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1351 keypoints in 67.8393 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.92407 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1327 keypoints in 67.5504 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.88298 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 34
+matched keypoint 128
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1311 keypoints in 66.7429 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.89643 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 29
+matched keypoint 128
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1351 keypoints in 69.2376 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.85287 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 33
+matched keypoint 126
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1360 keypoints in 75.8984 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.81688 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 36
+matched keypoint 118
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1347 keypoints in 67.5707 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.83117 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 33
+matched keypoint 129
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1363 keypoints in 67.7848 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.8416 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 32
+matched keypoint 131
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1331 keypoints in 64.5958 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.56496 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 37
+matched keypoint 136
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1357 keypoints in 66.3389 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.96609 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 39
+matched keypoint 136
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1331 keypoints in 70.111 ms
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.84841 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 32
+matched keypoint 143
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : AKAZE descType: ORB
+time  1.04856 s
+sumMatches = 1175
+*******************************
+Start DecType : AKAZE descType: FREAK
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1351 keypoints in 71.038 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.8755 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1327 keypoints in 69.5241 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.6661 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 39
+matched keypoint 123
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1311 keypoints in 63.4867 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.6929 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 29
+matched keypoint 128
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1351 keypoints in 69.2496 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.1412 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 31
+matched keypoint 128
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1360 keypoints in 63.4434 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.2633 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 33
+matched keypoint 121
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1347 keypoints in 63.7878 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 40.3534 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 40
+matched keypoint 122
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1363 keypoints in 65.4505 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.9984 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 30
+matched keypoint 133
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1331 keypoints in 73.0192 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.6852 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 29
+matched keypoint 144
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1357 keypoints in 66.7564 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.5658 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 30
+matched keypoint 145
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1331 keypoints in 69.5763 ms
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 39.7307 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 40
+matched keypoint 135
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : AKAZE descType: FREAK
+time  1.40975 s
+sumMatches = 1179
+*******************************
+Start DecType : AKAZE descType: AKAZE
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1351 keypoints in 67.9936 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 53.2119 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1327 keypoints in 65.4463 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 68.5788 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 27
+matched keypoint 135
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1311 keypoints in 72.0503 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 58.5949 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 19
+matched keypoint 138
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1351 keypoints in 68.0405 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 49.5325 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 27
+matched keypoint 132
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1360 keypoints in 65.5164 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 59.5883 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 28
+matched keypoint 126
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1347 keypoints in 66.9462 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 56.0368 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 34
+matched keypoint 128
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1363 keypoints in 68.4634 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 57.1553 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 17
+matched keypoint 146
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1331 keypoints in 68.8508 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 53.4985 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 26
+matched keypoint 147
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1357 keypoints in 70.2892 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 59.811 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 26
+matched keypoint 149
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1331 keypoints in 67.6835 ms
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 56.4385 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 27
+matched keypoint 148
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : AKAZE descType: AKAZE
+time  1.59332 s
+sumMatches = 1249
+*******************************
+Start DecType : AKAZE descType: SIFT
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1351 keypoints in 63.8542 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 23.5703 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1327 keypoints in 68.9044 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 23.9214 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 30
+matched keypoint 132
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1311 keypoints in 68.965 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 22.7873 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 23
+matched keypoint 134
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1351 keypoints in 67.7356 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 22.8321 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 30
+matched keypoint 129
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1360 keypoints in 75.1459 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 28.7259 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 18
+matched keypoint 136
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1347 keypoints in 70.7372 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 22.8595 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 26
+matched keypoint 136
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1363 keypoints in 68.2644 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 24.3058 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 16
+matched keypoint 147
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1331 keypoints in 67.2497 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 23.3023 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 26
+matched keypoint 147
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1357 keypoints in 69.9141 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 25.0749 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 22
+matched keypoint 153
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZEdetection with n=1331 keypoints in 66.4512 ms
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 24.2177 ms
+#3 : EXTRACT DESCRIPTORS done
+# keypoints removed = 26
+matched keypoint 149
+#4 : MATCH KEYPOINT DESCRIPTORS done
+---------------------------------------
+DecType : AKAZE descType: SIFT
+time  1.27066 s
+sumMatches = 1263

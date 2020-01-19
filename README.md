@@ -1,92 +1,42 @@
-    class GetFrame:
-    def __init__(self, node_name):
-        self.operate = rospy.Subscriber('operate', operate, self.callback)
-        self.pub_frame = rospy.Publisher('img_camera', sendframe, queue_size=3)
-        self.node_name = node_name
-        self.net = None
-        self.detect = None
-        self.cap = None
-        self.args = arg_parse()
-        self.frame_data = sendframe()
-        self.bridge = CvBridge()
-        self.cmd = "end"
+# SFND 2D Feature Tracking
 
-    def callback(self, data):
-        self.cmd = data.command 
-        if data.command == "init":
-            self.initialize()
-        elif data.command == "start":
-            self.get_frame()
+<img src="images/keypoints.png" width="820" height="248" />
 
+The idea of the camera course is to build a collision detection system - that's the overall goal for the Final Project. As a preparation for this, you will now build the feature tracking part and test various detector / descriptor combinations to see which ones perform best. This mid-term project consists of four parts:
 
-    def initialize(self):
-        self.net = cv2.dnn.readNetFromDarknet(self.args.config, self.args.weight)
-        self.net.setPreferableBackend(cv2.dnn.DNN_BACKEND_OPENCV)
-        self.net.setPreferableTarget(cv2.dnn.DNN_TARGET_CPU)
+* First, you will focus on loading images, setting up data structures and putting everything into a ring buffer to optimize memory load. 
+* Then, you will integrate several keypoint detectors such as HARRIS, FAST, BRISK and SIFT and compare them with regard to number of keypoints and speed. 
+* In the next part, you will then focus on descriptor extraction and matching using brute force and also the FLANN approach we discussed in the previous lesson. 
+* In the last part, once the code framework is complete, you will test the various algorithms in different combinations and compare them with regard to some performance measures. 
 
-        # load DetectBoxes class
-        self.detect = DetectBoxes(self.args.labels,
-                                  confidence_threshold=self.args.confidence,
-                                  nms_threshold=self.args.nmsThreshold)
-        
-        try:
-            self.cap = cv2.VideoCapture(0)
-        except IOError:
-            sys.exit(1)
+See the classroom instruction and code comments for more details on each of these parts. Once you are finished with this project, the keypoint matching part will be set up and you can proceed to the next lesson, where the focus is on integrating Lidar points and on object detection using deep-learning. 
 
-    @staticmethod
-    def get_outputs_names(net):
-        # names of network layers e.g. conv_0, bn_0, relu_0....
-        layer_names = net.getLayerNames()
-        return [layer_names[i[0] - 1] for i in net.getUnconnectedOutLayers()]
+## Dependencies for Running Locally Windwos
+* cmake >= 3.14.6
+  * All OSes: [click here for installation instructions](https://cmake.org/install/)
+* OpenCV >= 4.1.1
+  * cmake -G "Visual Studio 16 2019" -a  Win64 -DCMAKE_WINDOWS_EXPORT_ALL_SYMBOLS=ON -DCMAKE_INSTALL_PREFIX=C:\pcl-ownBuild\install -DOPENCV_EXTRA_MODULES_PATH=C:/pcl-ownBuild/dep/opencv_contrib/modules  -DOPENCV_ENABLE_NONFREE=ON ..
+  cmake --build . --clean-first --config Release --target INSTALL	
 
-    def get_frame(self):
-        # if start signal came before init signal
-        # initialize net & camera
-        if self.cap is None or not self.cap.isOpened():
-            self.initialize()
+## Basic Build Instructions
 
-        while self.cap.isOpened():
-            if self.cmd != "start"
-                return
-            has_frame, frame = self.cap.read()
+1. Clone this repo.
+2. Make a build directory in the top level directory: `mkdir build && cd build`
+3. Configure cmake -G "Visual Studio 16 2019" -a  Win64 -DCMAKE_WINDOWS_EXPORT_ALL_SYMBOLS=ON  -DOpenCV_DIR=C:\pcl-ownBuild\install\x64\vc16\lib  -DCMAKE_CXX_FLAGS=-I\ %include% ..
+4 Compile cmake --build . --clean-first --config Release --target ALL_BUILD
+5. Run it: `Release\2D_feature_tracking`.
 
-            # if end of frame, program is terminated
-            if not has_frame:
-                break
-
-            # Create a 4D blob from a frame.
-            blob = cv2.dnn.blobFromImage(frame, 1 / 255, (self.args.resol, self.args.resol),
-                                         (0, 0, 0), True, crop=False)
-
-            # Set the input to the network
-            self.net.setInput(blob)
-
-            # Runs the forward pass
-            network_output = self.net.forward(self.get_outputs_names(self.net))
-
-            # Extract the bounding box and draw rectangles
-            self.frame_data.percent, self.frame_data.coords = self.detect.detect_bounding_boxes(frame, network_output)
-
-            print("FPS {:5.2f}".format(1000/elapsed))
-
-            # publish frames + detected objects
-            self.frame_data.operate = cmd
-            try:
-                self.frame_data.frame = self.bridge.cv2_to_imgmsg(frame, encoding="passthrough")
-                self.pub_frame.publish(self.frame_data)
-            except CvBridgeError as e:
-                print(e)
-
-        self.log.publish(log_generator(self.node_name, "Camera closed"))
-        # releases video and removes all windows generated by the program
-        # cap.release()
+## Project
 
 
-     if __name__ == '__main__':
-         rospy.init_node('get_frame', anonymous=True)
-         g_frame = GetFrame('get_frame')
-         try:
-             rospy.spin()
-         except KeyboardInterrupt:
-             print("Shut down - keyboard interruption")
+
+- MP.1 Data Buffer Optimization : Use Deque with push_back and pop_front
+- MP.2 Implmented the stuff as Shown an Previews sections. Add nonefree for SIFT, try to use default interface for every detector
+- MP.3 Use a costeme val cheak to remove keypoints outside the Region of Interest with a rect cheack
+- MP.4 Implemented as shown in the lecture
+- MP.5 Implemented as shown in the lecture with the converer to float 
+- MP.6 Implemented as shown in the lecture
+- MP.7 
+
+
+
